@@ -1,0 +1,16 @@
+# Discord Server Cloner - Dependencies
+# Cross-platform: Windows, Linux, macOS
+
+# HTTP client
+requests>=2.31.0
+aiohttp>=3.9.0
+
+# Console styling
+pystyle>=2.4.0
+colorama>=0.4.6
+
+# Configuration
+python-dotenv>=1.0.0
+
+# Build (for creating standalone exe)
+# pip install pyinstaller (not required for running)
