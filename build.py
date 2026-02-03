@@ -86,11 +86,11 @@ def build(onefile=False):
     
     if result.returncode == 0:
         dist_dir = base_dir / "dist"
-        print(f"\n✓ Build successful!")
+        print(f"\n[OK] Build successful!")
         print(f"  Output: {dist_dir}")
         print(f"\n  Note: Copy token.txt to the same folder as the exe")
     else:
-        print(f"\n✗ Build failed with code {result.returncode}")
+        print(f"\n[FAIL] Build failed with code {result.returncode}")
     
     return result.returncode
 
