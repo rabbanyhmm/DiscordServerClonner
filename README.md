@@ -123,4 +123,4 @@ DiscordServerCloner/
 MIT License - Use freely, credit appreciated.
 
 ---
-Made by [@myexistences](https://github.com/myexistences)
+Made by [@rabbanyhmm](https://github.com/rabbanyhmm)

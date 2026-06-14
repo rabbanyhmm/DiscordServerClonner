@@ -44,8 +44,8 @@ class Console:
 | |  | | | |_| | | |____   >  <  | | \__ \ | |_  |  __/ | | | | | (__  |  __/ \__ \  
 |_|  |_|  \__, | |______| /_/\_\ |_| |___/  \__|  \___| |_| |_|  \___|  \___| |___/   
 
-                              MADE BY @myexistences
-                      Github : https://github.com/myexistences
+                              MADE BY @rabbanyhmm
+                      Github : https://github.com/rabbanyhmm
            """
     
     @staticmethod
@@ -66,8 +66,8 @@ class Console:
         
         # Attribution footer
         print(f"{Colors.dark_blue}{'='*80}{Colors.white}")
-        print(f"{Colors.cyan}>> Original Author: @myexistences{Colors.white}")
-        print(f"{Colors.cyan}>> GitHub: https://github.com/myexistences{Colors.white}")
+        print(f"{Colors.cyan}>> Original Author: @rabbanyhmm{Colors.white}")
+        print(f"{Colors.cyan}>> GitHub: https://github.com/rabbanyhmm{Colors.white}")
         print(f"{Colors.dark_blue}{'='*80}{Colors.white}\n")
     
     @classmethod

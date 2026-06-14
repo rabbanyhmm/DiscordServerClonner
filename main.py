@@ -2,8 +2,8 @@
 Discord Server Cloner - Production Level
 A professional tool for cloning Discord server structures.
 
-Made by @myexistences
-GitHub: https://github.com/myexistences
+Made by @rabbanyhmm
+GitHub: https://github.com/rabbanyhmm
 """
 
 import asyncio
@@ -69,7 +69,7 @@ class DiscordServerCloner:
                 {b}[{w}03{b}]{w} Clone Emoji's   {b}[{w}00{b}]{w} Exit"""
             print(menu)
             
-            choice = self.console.prompt("@myexistences")
+            choice = self.console.prompt("@rabbanyhmm")
             
             try:
                 if choice == "1":
